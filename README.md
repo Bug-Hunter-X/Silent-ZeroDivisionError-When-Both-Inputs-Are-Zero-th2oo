@@ -1,0 +1,3 @@
+# Silent ZeroDivisionError in Python
+
+This repository demonstrates a subtle error in Python related to the `ZeroDivisionError`.  When both inputs to a division operation are zero, a `ZeroDivisionError` is expected. However, in specific cases, this exception may not be raised, leading to unexpected behavior. The code shows an example where this issue manifests, and the solution demonstrates how to handle such scenarios correctly. 
